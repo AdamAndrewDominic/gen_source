@@ -12,16 +12,16 @@ __version__ = '%%DATE%% 1.00 (%%USER%%)'
 #import optparse
 
 #usage = "%prog [options] [filename]"
-#parser = optparse.OptionParser( usage=usage )
-#parser.parse_args( )
+#parser = optparse.OptionParser(usage=usage)
+#parser.parse_args()
 
-#if len( sys.argv ) == 1:
+#if len(sys.argv) == 1:
 #  stream = sys.stdin
-#elif len( sys.argv ) == 2:
-#  stream = open( sys.argv[ 1 ], 'r' )
+#elif len(sys.argv) == 2:
+#  stream = open(sys.argv[1], 'r')
 #else:
-#  parser.print_help( )
-#  exit( )
+#  parser.print_help()
+#  exit()
 
 
 #for line in stream:
