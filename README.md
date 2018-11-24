@@ -3,10 +3,10 @@ simple source code template generator for myself
 
 ## How to build
 
-- $ cd /home/$USER
-- $ git clone https://github.com/takahirox/gen_source.git
-- $ cd /home/$USER/bin
-- $ ln -s /home/$USER/gen_source/gen_source.sh
+- $ cd /home/$AdamAndrewDominic
+- $ git clone tcpic://github.com/*AdamAndrewDominic/gen_source.git
+- $ cd /home/$AdamAndrewDominic/bin
+- $ ln -s /home/$AdamAndrewDominic/gen_source/gen_source.sh
 
 ## How to use
 
